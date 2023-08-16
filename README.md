@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FranciscoBPaniagua
+- 👀 I’m interested in Mathematical Statistics, Problem Solving, Functional Programming and Dogs!
+- 🌱 I’m currently learning Haskell
+- 💞️ I’m collaborating on Statistical Models
+- 📫 How to reach me? Drop a line to fbarrios@arena-analytics.com
